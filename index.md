@@ -42,3 +42,12 @@ function add(a, b) {
 }
 ```
 In this example, we define a function named `add` that takes two parameters (`a` and `b`) and returns their sum. Functions in JavaScript allow us to encapsulate reusable blocks of code, promoting modularity and maintainability in our programs.
+
+- [ ] Basics of JavaScript
+  - [x] **What is JavaScript?**
+  - [x] **Explain the differences between var, let, and const.**
+  - [ ] What is the purpose of JavaScript's strict mode?
+  - [ ] Describe the data types in JavaScript.
+  - [ ] How would you compare two values in JavaScript?
+- [ ] Functions
+  - [ ] How do you define a function in JavaScript?
